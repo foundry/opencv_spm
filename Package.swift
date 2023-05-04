@@ -26,8 +26,8 @@ let package = Package(
 //        ,
         .binaryTarget(
             name: "opencv_framework",
-            url: "https://gitlab.com/foundry/opencv_framework/-/archive/0.0.2/opencv_framework-0.0.2.zip",
-            checksum:"a4b0b1e0b21e0dbf6eef9b02a2348ac56ef541762db13afd3ac6bd99d2c52ac3"
+            url: "https://github.com/foundry/opencv_xcframework/releases/download/0.0.2/opencv2.xcframework.zip",
+            checksum:"82731b4156e2de76ab931554ab9ffe77c9a81b058fa509a604e4f8dd094084f9"
         )
         
         
