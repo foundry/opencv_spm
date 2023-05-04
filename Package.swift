@@ -14,6 +14,7 @@ let package = Package(
 //        .binaryTarget(
 //            name: "opencv_framework",
 //            url: "https://github.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip",
+        
 //            checksum:"a4b0b1e0b21e0dbf6eef9b02a2348ac56ef541762db13afd3ac6bd99d2c52ac3"
 //        )
 //        ,
@@ -25,9 +26,10 @@ let package = Package(
 //        ,
         .binaryTarget(
             name: "opencv_framework",
-            url: "https://gitlab.com/foundry/opencv_framework/-/archive/0.0.1/opencv_framework-0.0.1.zip",
+            url: "https://gitlab.com/foundry/opencv_framework/-/archive/0.0.2/opencv_framework-0.0.2.zip",
             checksum:"a4b0b1e0b21e0dbf6eef9b02a2348ac56ef541762db13afd3ac6bd99d2c52ac3"
         )
+        
         
 
 //        ,
