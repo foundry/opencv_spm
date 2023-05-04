@@ -1,3 +1,3 @@
-# OpenCvPackage
+# opencv framework
 
-A description of this package.
+based on openCV 4.7.0
