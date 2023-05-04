@@ -14,12 +14,12 @@ let package = Package(
         .binaryTarget(
             name: "github",
             url: "https://github.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip",
-            checksum:""
+            checksum:"c05cbd69947309e82f1c56995df0f1cde320444f4a0e3e19d233a4692ea5513f"
         ),
         .binaryTarget(
             name: "gitlab",
-            url: "https://github.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip",
-            checksum:""
+            url: "https://gitlab.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip",
+            checksum:"c05cbd69947309e82f1c56995df0f1cde320444f4a0e3e19d233a4692ea5513f"
         )
 //        ,
 //        .binaryTarget(
