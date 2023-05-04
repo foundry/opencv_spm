@@ -13,7 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "opencv_xcframework",
-            url: "https://github.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip"
+            url: "https://github.com/foundry/opencv_xcframework/archive/refs/tags/0.0.1.zip",
+            checksum:""
         )
 //        ,
 //        .binaryTarget(
